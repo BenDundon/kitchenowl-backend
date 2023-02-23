@@ -10,13 +10,19 @@
     "apérol": {},
     "arugula": {},
     "asian_egg_noodles": {},
-    "aspargus": {},
+    "aspargus": {
+      "category": "fruits_vegetables"
+    },
     "aspirin": {},
     "avocado": {},
     "baby_spinach": {},
     "bacon": {},
-    "baguette": {},
-    "baguettes": {},
+    "baguette": {
+      "category": "bread"
+    },
+    "baguettes": {
+      "category": "bread"
+    },
     "bakefish": {},
     "baking_cocoa": {},
     "baking_mix": {},
@@ -25,20 +31,30 @@
     "baking_soda": {},
     "baking_yeast": {},
     "balsamic_vinegar": {},
-    "bananas": {},
-    "basil": {},
+    "bananas": {
+      "category": "fruits_vegetables"
+    },
+    "basil": {
+      "category": "fruits_vegetables"
+    },
     "basmati_rice": {},
     "bathroom_cleaner": {},
     "batteries": {},
     "bay_leaf": {},
     "beans": {},
-    "beer": {},
+    "beer": {
+      "category": "drinks"
+    },
     "beet": {},
-    "beetroot": {},
+    "beetroot": {
+      "category": "fruits_vegetables"
+    },
     "birthday_card": {},
     "black_beans": {},
     "bockwurst": {},
-    "bodywash": {},
+    "bodywash": {
+      "category": "hygiene"
+    },
     "bread": {
       "category": "bread"
     },
@@ -62,12 +78,16 @@
     "cannelloni": {},
     "canola_oil": {},
     "cardamom": {},
-    "carrots": {},
+    "carrots": {
+      "category": "fruits_vegetables"
+    },
     "cashews": {},
     "cat_treats": {},
     "cauliflower": {},
     "celeriac": {},
-    "celery": {},
+    "celery": {
+      "category": "fruits_vegetables"
+    },
     "cereal_bar": {},
     "cheddar": {
       "category": "dairy"
@@ -75,14 +95,20 @@
     "cheese": {
       "category": "dairy"
     },
-    "cherry_tomatoes": {},
+    "cherry_tomatoes": {
+      "category": "fruit_vegetables"
+    },
     "chickpeas": {},
     "chili_oil": {},
     "chips": {},
-    "chives": {},
+    "chives": {
+      "category": "fruit_vegetables"
+    },
     "chocolate": {},
     "chopped_tomatoes": {},
-    "ciabatta": {},
+    "ciabatta": {
+      "category": "bread"
+    },
     "cider_vinegar": {},
     "cilantro": {},
     "cinnamon": {},
@@ -98,12 +124,16 @@
     "concealer": {},
     "cookies": {},
     "coriander": {},
-    "corn": {},
+    "corn": {
+      "category": "fruits_vegetables"
+    },
     "cornflakes": {},
     "cornstarch": {},
     "cornys": {},
     "cough_drops": {},
-    "couscous": {},
+    "couscous": {
+      "category": "grain"
+    },
     "covid_rapid_test": {},
     "cow's_milk": {
       "category": "dairy"
@@ -124,7 +154,9 @@
     "curry_powder": {},
     "curry_sauce": {},
     "dates": {},
-    "dental_floss": {},
+    "dental_floss": {
+      "category": "hygiene"
+    },
     "deodorant": {
       "category": "hygiene"
     },
@@ -136,7 +168,9 @@
     "dishwasher_tabs": {
       "category": "hygiene"
     },
-    "disinfection_spray": {},
+    "disinfection_spray": {
+      "category": "hygiene"
+    },
     "dried_tomatoes": {},
     "edamame": {},
     "eggplant": {},
@@ -167,7 +201,9 @@
     "garam_masala": {},
     "garbage_bag": {},
     "garbage_bags": {},
-    "garlic": {},
+    "garlic": {
+      "category": "fruits_vegetable"
+    },
     "garlic_dip": {},
     "garlic_granules": {},
     "gherkins": {},
@@ -233,6 +269,9 @@
     "marshmallows": {},
     "mask": {},
     "mayonnaise": {},
+    "meatballs":{
+      "category": "refrigerated"
+    },
     "meat_substitute_product": {},
     "microfiber_cloth": {},
     "milk": {},
@@ -390,8 +429,13 @@
     "sponge_cloth": {},
     "sponge_wipes": {},
     "sponges": {},
+    "squash" : {
+      "category": "fruits_vegetables"
+    },
     "spreading_cream": {},
-    "spring_onions": {},
+    "spring_onions": {
+      "category": "fruits_vegetables"
+    },
     "sprite": {},
     "sprouts": {},
     "sriracha": {},
