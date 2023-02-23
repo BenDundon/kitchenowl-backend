@@ -83,6 +83,9 @@
     "cane_sugar": {},
     "cannelloni": {},
     "canola_oil": {},
+    "capsicum": {
+      "category": "fruits_vegetables"
+    },
     "cardamom": {},
     "carrots": {
       "category": "fruits_vegetables"
@@ -231,6 +234,9 @@
       "category": "dairy"
     },
     "green_asparagus": {},
+    "green_capsicum": {
+      "category": "fruits_vegetables"
+    },
     "green_chili": {},
     "green_pesto": {},
     "hair_gel": {},
@@ -385,6 +391,9 @@
     "raspberries": {},
     "raspberry_syrup": {},
     "red_bull": {},
+    "red_capsicum": {
+      "category": "fruits_vegetables"
+    },
     "red_chili": {},
     "red_lentils": {},
     "red_onions": {},
@@ -532,6 +541,9 @@
     "wrapping_paper": {},
     "wraps": {},
     "yeast": {},
+    "yellow_capsicum": {
+      "category": "fruits_vegetables"
+    },
     "yoghurt": {},
     "yogurt": {
       "category": "dairy"
