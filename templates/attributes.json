@@ -59,13 +59,19 @@
       "category": "bread"
     },
     "breadcrumbs": {},
-    "broccoli": {},
+    "broccoli": {
+      "category": "fruits_vegetables"
+    },
     "brown_sugar": {},
     "brussels_sprouts": {},
     "buffalo_mozzarella": {},
     "buko": {},
-    "buns": {},
-    "burger_buns": {},
+    "buns": {
+      "category": "bread"
+    },
+    "burger_buns": {
+      "category": "bread"
+    },
     "burger_patties": {},
     "burger_sauces": {},
     "butter": {},
@@ -207,14 +213,18 @@
     "garlic_dip": {},
     "garlic_granules": {},
     "gherkins": {},
-    "ginger": {},
+    "ginger": {
+      "category": "fruits_vegetables"
+    },
     "glass_noodles": {},
     "gluten": {},
     "gnocchi": {},
     "gochujang": {},
     "gorgonzola": {},
     "gouda": {},
-    "grapes": {},
+    "grapes": {
+      "category": "fruits_vegetables"
+    },
     "greek_yogurt": {},
     "green_asparagus": {},
     "green_chili": {},
@@ -231,12 +241,22 @@
     "herb_cream_cheese": {},
     "honey": {},
     "honey_wafers": {},
-    "hot_dog_bun": {},
-    "ice_cream": {},
+    "hot_dog_bun": {
+      "category": "bread"
+    },
+    "ice_cream": {
+      "category": "freezer"
+    },
     "ice_cube": {},
-    "iceberg_lettuce": {},
-    "iced_tea": {},
-    "instant_soups": {},
+    "iceberg_lettuce": {
+      "category": "fruits_vegetables"
+    },
+    "iced_tea": {
+      "category": "drinks"
+    },
+    "instant_soups": {
+      "category": "canned"
+    },
     "jam": {},
     "katjes": {},
     "ketchup": {},
@@ -464,7 +484,9 @@
     "tomato_sauce": {},
     "tomatoes": {},
     "tonic_water": {},
-    "toothpaste": {},
+    "toothpaste": {
+      "category": "hygiene"
+    },
     "tortellini": {},
     "tortilla_chips": {},
     "tuna": {},
@@ -499,10 +521,14 @@
     "wraps": {},
     "yeast": {},
     "yoghurt": {},
-    "yogurt": {},
+    "yogurt": {
+      "category": "refrigerated"
+    },
     "yum_yum": {},
     "zewa": {},
     "zinc_cream": {},
-    "zucchini": {}
+    "zucchini": {
+      "category": "fruits_vegetables"
+    }
   }
 }
