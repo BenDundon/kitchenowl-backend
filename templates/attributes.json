@@ -212,7 +212,9 @@
     },
     "garlic_dip": {},
     "garlic_granules": {},
-    "gherkins": {},
+    "gherkins": {
+      "category": "fruits_vegetables"
+    },
     "ginger": {
       "category": "fruits_vegetables"
     },
@@ -225,7 +227,9 @@
     "grapes": {
       "category": "fruits_vegetables"
     },
-    "greek_yogurt": {},
+    "greek_yogurt": {
+      "category": "dairy"
+    },
     "green_asparagus": {},
     "green_chili": {},
     "green_pesto": {},
@@ -368,7 +372,9 @@
     "processed_cheese": {},
     "prosecco": {},
     "puff_pastry": {},
-    "pumpkin": {},
+    "pumpkin": {
+      "category": "fruits_vegetables"
+    },
     "pumpkin_seeds": {},
     "quark": {},
     "quinoa": {},
@@ -395,13 +401,17 @@
     "rinse_tabs": {},
     "rinsing_agent": {},
     "risotto_rice": {},
-    "rocket": {},
+    "rocket": {
+      "category": "fruits_vegetables"
+    },
     "roll": {},
     "rosemary": {},
     "saffron_threads": {},
     "sage": {},
     "saitan_powder": {},
-    "salad_mix": {},
+    "salad_mix": {
+      "category": "fruits_vegetables"
+    },
     "salad_seeds_mix": {},
     "salt": {},
     "salt_mill": {},
@@ -508,7 +518,9 @@
     "washing_powder": {},
     "water": {},
     "water_ice": {},
-    "watermelon": {},
+    "watermelon": {
+      "category": "fruits_vegetables"
+    },
     "wc_cleaner": {},
     "whipped_cream": {},
     "white_wine": {},
@@ -522,7 +534,7 @@
     "yeast": {},
     "yoghurt": {},
     "yogurt": {
-      "category": "refrigerated"
+      "category": "dairy"
     },
     "yum_yum": {},
     "zewa": {},
